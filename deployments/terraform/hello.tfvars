@@ -1,0 +1,6 @@
+credentials = "fuchicorp-service-account.json"
+google_bucket_name = "aidin-bucket-fuchicorp"
+deployment_name = "hello-world"
+google_project_id = "neural-water-286202"
+google_domain_name = "bishkekdc.com"
+deployment_environment = "dev"
