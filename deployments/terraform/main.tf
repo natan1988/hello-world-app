@@ -29,5 +29,5 @@ variable "deployment_endpoint" {
   }
 }
 variable "google_domain_name" {
-    default = "bishkekdc.com"
+    default = "dontmesswithzohan.com"
 }
