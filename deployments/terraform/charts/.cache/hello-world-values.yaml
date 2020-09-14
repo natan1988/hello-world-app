@@ -23,14 +23,14 @@ ingress:
     cert-manager.io/cluster-issuer: letsencrypt-prod
 
   hosts:
-    - host: dev.hello.bishkek.com
+    - host: dev.hello.dontmesswithzohan.com
       paths: 
       - /
 
   tls: 
   - secretName: wasssup-aidin
     hosts:
-      - dev.hello.bishkek.com
+      - dev.hello.dontmesswithzohan.com
 
 globalEnvironments:
   enabled: true
