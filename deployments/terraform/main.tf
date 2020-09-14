@@ -13,7 +13,7 @@ output "application_endpoint" {
     value = "${lookup(var.deployment_endpoint, "${var.deployment_environment}")}.${var.google_domain_name}"
 }
 variable  "deployment_image" {
-    default = "docker.dontmesswithzohan.com/hello-world-dev-feature:latest"
+    default = "docker.dontmesswithzohan.com/hello-world-dev-feature:a4ee95e"
 }
 variable "deployment_environment" {
     default = "dev"

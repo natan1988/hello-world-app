@@ -5,7 +5,7 @@
 replicaCount: 5
 
 image:
-  repository: docker.bishkekdc.com/hello-world-dev-feature:86e1ebc
+  repository: docker.dontmesswithzohan.com/hello-world-dev-feature:latest
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
