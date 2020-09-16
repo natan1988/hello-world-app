@@ -1,0 +1,6 @@
+credentials = "fuchicorp-service-account.json"
+google_bucket_name = "maksat-twd"
+deployment_name = "hello-world"
+google_project_id = "leafy-sight-288223"
+google_domain_name = "dontmesswithzohan.com"
+deployment_environment = "dev"
